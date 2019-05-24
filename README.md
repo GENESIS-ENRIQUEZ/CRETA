@@ -31,13 +31,6 @@ Primero tenemos que hablar de uno de los más grandes casos de éxito a nivel mu
 
 En Africa 21% de los adultos, cuentan hoy en día con una “cuenta digital” en sus dispositivos. Esto lo logró la aplicación M-Pesa, la cuál M-Pesa la cual es una aplicación para transferir dinero que se utiliza principalmente para pago en comercios. El éxito fue tan grande que está tecnología llegó a países como Afganistán, India, Romania y recientemente Bangladesh. 
 
-
-¿Qué países han utilizado fintech para inclusión financiera?
-
-Primero tenemos que hablar de uno de los casos de los mayores casos de éxito a nivel mundial.
-
-En Africa 21% de los adultos, cuentan hoy en día con una “cuenta digital” en sus dispositivos. Esto lo logró la aplicación M-Pesa. Esta es una aplicación para transferir dinero que se utiliza principalmente para pago en comercios. El éxito fue tan grande que está tecnología llegó a países como Afganistán, India, Romania y recientemente Bangladesh.
-
 Otro caso similar es el de Alipay, esta es una plataforma de pagos en línea con oficinas centrales en Pudong, Shangai. Actualmente sobrepaso a PayPal, como la plataforma móvil de pagos más gande. En marzo de 2018 el número de usuarios alcanzó los 870, 000, 000 millones. Alipay opera con más de 65 instituciones financieras incluidas Visa y MasterCard. Para pagar servicios en línea y locales a más de 460, 000 negocios en China. Alipay es usado en smartsphones en donde se puede pagar a través de códigos QR y se esta expandiendo globalmente, actualmente opera en 18 países de Asia, Europa y América.
 
 Nubak es una startup de origen brasileña pionera en el segmento de servicios financiera que se desempeña como operadora de tarjetas de crédito y banco digital con operaciones en Brasil, Sao Paulo. Creo una tarjeta de crédito internacional mastercard administrada desde una aplicación y un programa de beneficios. la cuenta ya es usada por más de 2.5 millones de brasileños.
@@ -98,9 +91,6 @@ Documentación del proceso de User Experience Designer
 
 ![Proceso de trabajo UXD 1](https://i.ibb.co/BnCh2tB/IMG-20190423-172837.jpg)
 ![Proceso de trabajo UXD 2](https://i.ibb.co/GCmYwML/IMG-20190424-193017.jpg)
-
-Proceso Técnico
-
 
 
 Colaboradoras:
